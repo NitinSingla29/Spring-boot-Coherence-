@@ -1,0 +1,1 @@
+java -cp .\override;%COHERENCE_HOME%\lib\coherence.jar -Dtangosol.coherence.distributed.localstorage=false com.tangosol.net.CacheFactory
